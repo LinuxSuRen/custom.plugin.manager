@@ -7,9 +7,9 @@
         <version>3.50</version>
         <relativePath />
     </parent>
-    <groupId>org.jenkins-ci.main</groupId>
-    <artifactId>jenkins-core</artifactId>
-    <version>1.0</version>
+    <groupId>io.jenkins.plugins</groupId>
+    <artifactId>custom.plugin.manager</artifactId>
+    <version>1.0-SNAPSHOT</version>
 <!--    <packaging>hpi</packaging>-->
     <properties>
         <jenkins.version>2.164.1</jenkins.version>
